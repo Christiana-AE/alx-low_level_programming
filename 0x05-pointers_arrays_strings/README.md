@@ -52,6 +52,7 @@ Return value: the pointer to dest
 FYI: The standard library provides a similar function: strcpy. Run man strcpy to learn more.
 
 ## Advanced Tasks
+
 10. File: 100-atoi.c
 Write a function that convert a string to an integer.
 

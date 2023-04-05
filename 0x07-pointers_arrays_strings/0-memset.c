@@ -13,15 +13,15 @@
 
 char *_memset(char *s, char b, unsigned int n)
 {
-  /** Declaring an unsigned int to store a non-negative value
-      value can only be zero or a positive number
+	/**
+	 * declare an unsigned int which will only store a non negative number
+	 * Number will only be zero or positive 
+	*/
+  
+	unsigned int i;
 
-   */
-      unsigned int i;
-      
-      for (i = 0; i < n; i++)
-	s[i] = b;
+	for (i = 0; i < n; i++)
+		s[i] = b;
 
-      return(s);
-}
-     
+	return (s);
+}     

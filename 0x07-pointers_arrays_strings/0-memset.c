@@ -2,9 +2,9 @@
 
 /**
  *_memset: this is a function which will fill the memory with a constant byte
- * where s is an input pointer (pointing to n)
- * where n is the size of the bytes of memory area pointed to  
- * where b is the constant byte with which the memory will be filled
+ * @s is an input pointer (pointing to n)
+ * @n is the size of the bytes of memory area pointed to  
+ * @b is the constant byte with which the memory will be filled
  *
  *
  * Return: A pointer to the filled memory area represented by s

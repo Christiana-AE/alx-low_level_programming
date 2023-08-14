@@ -3,4 +3,4 @@
 
 #define SUM(x, y) ((x) + (y))
 
-#endif /* _SUM_
+#endif /* _SUM */_
